@@ -24,10 +24,3 @@ The program generates a random number and prompts the user to guess it, giving f
    ```bash
    java Main
    ```
-
-## Project Structure
-   ```css
-    number-guessing-game/
-    ├── Main.java
-    └── README.md
-   ```
