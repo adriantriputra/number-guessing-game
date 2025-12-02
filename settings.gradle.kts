@@ -1,1 +1,1 @@
-rootProject.name = "untitled"
+rootProject.name = "Number Guess Game"
